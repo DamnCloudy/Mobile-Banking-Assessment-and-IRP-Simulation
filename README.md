@@ -2,7 +2,7 @@
 
 This repository contains a security assessment of a mobile banking application, including vulnerability analysis, reverse engineering, and an incident response plan.
 
-Full Report (PDF): View / Download
+Full Report (PDF): [View / Download](Mobile%20Bank%20Assessment%20and%20Incident%20Response%20Plan.pdf)
 
 Summary
 The apk assessment identified critical issues to an application's confidentiality and integrity, such as exposing hardcoded secrets in the open, weak authentications, insecure data storage and improper SSL/TLS handling. Atructured incident response process was recommended covering containment, eradication, recovery, and prevention.
